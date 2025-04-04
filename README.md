@@ -6,12 +6,12 @@ This project is a graphical chess engine built using **Pygame** and the **python
 
 ## 💡 Features
 
-- Choose your color (White or Black) at game start
+- Choose your color (White or Black) at the start of the game
 - Graphical chess board using Pygame
 - AI opponent using:
   - **Minimax with Alpha-Beta Pruning**
   - **Heuristic evaluation** based on material balance and optional positional factors
-- Turn-based gameplay with legal move validation
+- Turn-based gameplay with legal move validation (shows illegal move when user(human) tries to play wrong moves)
 - Game ends on checkmate, stalemate, or draw
 
 ---
